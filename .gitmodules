@@ -1,0 +1,6 @@
+[submodule "data_app"]
+	path = data_app
+	url = .\\data_app\\
+[submodule "web_app"]
+	path = web_app
+	url = .\\web_app\\

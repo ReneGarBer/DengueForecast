@@ -1,0 +1,8 @@
+documents/
+Include/
+Lib/
+logs/
+Scripts/
+*.docx
+passwords.txt
+**.cfg
