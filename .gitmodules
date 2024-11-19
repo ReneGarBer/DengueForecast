@@ -3,4 +3,4 @@
 	url = https://github.com/ReneGarBer/data_app.git
 [submodule "web_app"]
 	path = web_app
-	url = .\\web_app\\
+	url = https://github.com/ReneGarBer/web_app.git
